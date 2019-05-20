@@ -1,0 +1,8 @@
+Calculations for Luxmeter:
+
+Resistance of Photoresistor:
+Bright Surrounding (Smartphone Light): 0.2 kOhm = 200 Ohm
+Dark Surrounding (Under the Table): 200 kOHM = 200000 Ohm
+
+Reference Resistance:
+Using Alex Benz formula: 6300 Ohm 
