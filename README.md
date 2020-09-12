@@ -1,6 +1,10 @@
 # Arduino-Luxmeter
 Build your own luxmeter with an Arduino board. With a light dependant resistor as a sensor the current lux are calculated and printed on the Serial Port in JSON format for further use. 
 
+## Used technologies
+
+C++, Microcontroller Arduino, Arduino IDE
+
 ## Prerequisites
 
 1. Have an Arduino UNO kit or similar microcontroller. See the [official Arduino website](https://www.arduino.cc/) for more information
