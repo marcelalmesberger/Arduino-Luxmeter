@@ -3,7 +3,7 @@ Build your own luxmeter with an Arduino board. With a light dependant resistor a
 
 ## Used technologies
 
-C++, Microcontroller Arduino, Arduino IDE
+C++, Arduino, Arduino IDE
 
 ## Prerequisites
 
